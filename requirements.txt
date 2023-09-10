@@ -1,0 +1,14 @@
+
+```plaintext
+Flask==2.1.1
+Flask-PyMongo==2.3.0
+pymongo==3.12.1
+```
+
+You can create a `requirements.txt` file and add these dependencies to it. When you want to install these dependencies, you can run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+Make sure to update the versions if needed or add any additional dependencies required for your specific project.
